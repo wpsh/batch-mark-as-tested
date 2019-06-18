@@ -1,0 +1,11 @@
+language: bash
+
+notifications:
+  email: false
+
+branches:
+  only:
+  - master
+
+script:
+  - shellcheck src/**/*.sh
