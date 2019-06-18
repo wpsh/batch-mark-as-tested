@@ -4,6 +4,12 @@
 
 A simply bash script to update the "Tested up to" version of all your plugins.
 
+## Requirements
+
+- Subversion client
+- Bash
+- sed, grep and awk
+
 
 ## Usage
 
