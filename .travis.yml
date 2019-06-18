@@ -8,4 +8,4 @@ branches:
   - master
 
 script:
-  - shellcheck src/**/*.sh
+  - shellcheck **/*.sh
