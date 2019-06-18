@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/wpsh/batch-mark-as-tested.svg?branch=master)](https://travis-ci.com/wpsh/batch-mark-as-tested)
 
-A simply bash script to update the "Tested up to" version of all your plugins.
+A simple bash script to update the "Tested up to" version for all your plugins.
 
 ## Requirements
 
